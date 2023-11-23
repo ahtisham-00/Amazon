@@ -3,10 +3,9 @@
         flex-wrap: wrap;
         height: unset;
     }
-/* 
-    .hero-msg p {
-        padding: 10px;
-    } */
+    .hero-msg p{
+        padding: 20px;
+    }
 
     .hero-section {
         width: 100%;
